@@ -1,4 +1,4 @@
-# Gerenciador de Produtos
+# Gerenciador de Produtos da minha loja de crochê
 
 Aplicação web desenvolvida com Node.js, Express e MySQL para cadastro, edição, listagem e remoção de produtos com imagens.
 
