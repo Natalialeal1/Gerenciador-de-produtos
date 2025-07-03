@@ -44,7 +44,7 @@ projeto/
 
 
 
-## ⚙️ Como executar localmente
+## Como executar localmente
 
 ### Pré-requisitos
 
@@ -52,7 +52,7 @@ projeto/
 - [MySQL](https://www.mysql.com/) rodando localmente
 - Criar um banco de dados com a tabela `produtos`
 
-### 📋 Criação da tabela no MySQL
+### Criação da tabela no MySQL
 
 ```sql
 CREATE DATABASE nome_do_banco;
