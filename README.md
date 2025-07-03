@@ -4,8 +4,7 @@ Aplicação web desenvolvida com Node.js, Express e MySQL para cadastro, ediçã
 
 ## Demonstração
 
-> Você pode incluir aqui uma imagem do seu site ou um GIF demonstrando o funcionamento.  
-> Ou adicionar o link de deploy (caso publique em um serviço como [Render](https://render.com)).
+
 
 ## Funcionalidades
 
