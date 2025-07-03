@@ -4,6 +4,8 @@ Aplicação web desenvolvida com Node.js, Express e MySQL para cadastro, ediçã
 
 ## Demonstração
 
+<img width="720" alt="Captura de Tela 2025-07-03 às 11 23 27" src="https://github.com/user-attachments/assets/5828ef35-e1c0-4af4-aca9-5bec5fd7604a" />
+<img width="720" alt="Captura de Tela 2025-07-03 às 11 24 24" src="https://github.com/user-attachments/assets/cdfeac91-f54c-4803-8080-46b7dce532c3" />
 
 
 ## Funcionalidades
