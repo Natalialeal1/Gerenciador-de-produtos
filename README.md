@@ -20,8 +20,11 @@ Aplicação web desenvolvida com Node.js, Express e MySQL para cadastro, ediçã
 - [Express](https://expressjs.com/)
 - [MySQL](https://www.mysql.com/)
 - [Express-Handlebars](https://www.npmjs.com/package/express-handlebars)
-- [Bootstrap](https://getbootstrap.com/)
 - [Express FileUpload](https://www.npmjs.com/package/express-fileupload)
+- [HTML5](https://developer.mozilla.org/pt-BR/docs/Web/HTML)
+- [CSS3](https://developer.mozilla.org/pt-BR/docs/Web/CSS)
+- [Bootstrap](https://getbootstrap.com/)
+
 
 ## Estrutura de pastas
 
